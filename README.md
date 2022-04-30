@@ -15,7 +15,7 @@ I have the below certifications:
 
 🌱 I’m currently learning Scala, React, Go, Kubernetes
 
-📫 You can reach me at martin.sw.engr@gmail.com 
+📫 You can reach me at [martin.sw.engr@gmail.com](mailto:martin.sw.engr@gmail.com) and [LinkedIn](https://www.linkedin.com/in/martin-isaac-ebenezer-b6155a129/)
 
 <!---
 martin-sw-engr/martin-sw-engr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
