@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martin-sw-engr, a Software Architect who started as a C++ Programmer in 1994 and have been with Java ecosystem since 1998. 
+- 👋 Hi, I’m @martin-sw-engr, a Software Architect with more than 27 years of industry experience. I started as a C++ Programmer in 1994 and have been with the Java ecosystem since 1998. 
 - I have more than 23+ years of experience in analysis, design and development of Java, web and distributed applications using a wide array of frameworks and tools. 
 - I have rich experience in architecting, designing and delivering distributed applications using Distributed Architecture and Microservices patterns, Domain Driven Design, GOF patterns, Concurrency Design patterns, J2EE Design Patterns, Enterprise Application Integration patterns, Implementation patterns and Data Modelling for RDBMS and Cassandra and UML. 
 - 👀 I’m interested in Architectual and Design Patterns, Java, Microservices, Functional Programming and AWS
