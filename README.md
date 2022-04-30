@@ -1,6 +1,9 @@
-## Martin Isaac Ebeenezer
+## Martin Isaac Ebenezer
+---
 
-👋 Hi, I’m @martin-sw-engr, a Software Architect with more than 27 years of industry experience. I started as a C++ Programmer in 1994 and have been with the Java ecosystem since 1998. 
+👋 Hi, I’m @martin-sw-engr, a Software Architect with more than 27 years of industry experience. 
+
+I started as a C++ Programmer in 1994 and have been with the Java ecosystem since 1998. 
 
 In the Java ecosystem, I have more than 23+ years of experience in analysis, design and development of Java, web and distributed applications using a wide array of frameworks and tools. 
 
@@ -16,6 +19,8 @@ I have the below certifications:
 🌱 I’m currently learning Scala, React, Go, Kubernetes
 
 📫 You can reach me at [martin.sw.engr@gmail.com](mailto:martin.sw.engr@gmail.com) and [LinkedIn](https://www.linkedin.com/in/martin-isaac-ebenezer-b6155a129/)
+
+---
 
 <!---
 martin-sw-engr/martin-sw-engr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
